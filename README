@@ -1,0 +1,3 @@
+This is research based project. Its influenced from NASM.
+This project aceepts assembly file as an input and traslate it into an object code.
+Concepts like symbol table, literal table and error table and created int this project.
